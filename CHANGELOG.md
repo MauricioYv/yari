@@ -1,5 +1,33 @@
 # Changelog
 
+## [2.52.2](https://github.com/mdn/yari/compare/v2.52.1...v2.52.2) (2024-05-21)
+
+
+### Bug Fixes
+
+* **article-footer:** reduce margin on small screens ([#11141](https://github.com/mdn/yari/issues/11141)) ([b4bc689](https://github.com/mdn/yari/commit/b4bc689c50c67452c9184da7a9b5b20c47ca9f72))
+* **css:** fit feedback form on smaller screens ([b4bc689](https://github.com/mdn/yari/commit/b4bc689c50c67452c9184da7a9b5b20c47ca9f72))
+* **playground:** avoid stringifying invalid console messages ([#11150](https://github.com/mdn/yari/issues/11150)) ([90072c8](https://github.com/mdn/yari/commit/90072c8ef4fdbd98d5ad09367f0e6b432cdaedf5))
+
+
+### Miscellaneous
+
+* **deps-dev:** bump braces from 3.0.2 to 3.0.3 ([#11170](https://github.com/mdn/yari/issues/11170)) ([bf88dec](https://github.com/mdn/yari/commit/bf88decd1261de081d0053d0709a5defdb76aea6))
+* **deps-dev:** bump eslint-plugin-n from 17.4.0 to 17.7.0 ([#11126](https://github.com/mdn/yari/issues/11126)) ([fa9c6d1](https://github.com/mdn/yari/commit/fa9c6d1134a68f02255e5908c84bce5efbb8dd5f))
+* **deps-dev:** bump html-validate from 8.18.2 to 8.19.0 ([#11159](https://github.com/mdn/yari/issues/11159)) ([2786895](https://github.com/mdn/yari/commit/2786895bfa2d4703dd4a69fbafd8d9534592c1e3))
+* **deps-dev:** bump ts-jest from 29.1.2 to 29.1.3 ([#11171](https://github.com/mdn/yari/issues/11171)) ([0d7850e](https://github.com/mdn/yari/commit/0d7850ed7acb2fcb518d6f1457e6faa9aeddebc8))
+* **deps-dev:** bump typescript-eslint from 7.9.0 to 7.10.0 ([#11169](https://github.com/mdn/yari/issues/11169)) ([1de9a26](https://github.com/mdn/yari/commit/1de9a268bf1db0f5a74b78d3789ae63ed3e31e67))
+* **deps:** bump @mdn/browser-compat-data from 5.5.28 to 5.5.29 ([#11162](https://github.com/mdn/yari/issues/11162)) ([9eabb01](https://github.com/mdn/yari/commit/9eabb010e47bc4cb96a9399ccb1c952287081881))
+* **deps:** bump @sentry/node from 7.114.0 to 8.2.1 in the sentry group across 1 directory ([#11145](https://github.com/mdn/yari/issues/11145)) ([3127032](https://github.com/mdn/yari/commit/3127032e2efea5b401a12dfbb374d3d869425fed))
+* **deps:** bump @stripe/stripe-js from 3.4.0 to 3.4.1 ([#11172](https://github.com/mdn/yari/issues/11172)) ([e344db8](https://github.com/mdn/yari/commit/e344db8fabf121b1b3e07c6f794ecdfc97d560c2))
+* **deps:** bump inquirer from 9.2.21 to 9.2.22 ([#11160](https://github.com/mdn/yari/issues/11160)) ([2a67c3c](https://github.com/mdn/yari/commit/2a67c3cb5bade44e06737175e69995e76539c705))
+* **deps:** bump pytest from 8.2.0 to 8.2.1 in /testing/integration in the dependencies group ([#11156](https://github.com/mdn/yari/issues/11156)) ([fb2066e](https://github.com/mdn/yari/commit/fb2066e94798bcd5150d5b271fd8a44feb479d76))
+* **deps:** bump requests from 2.31.0 to 2.32.0 in /deployer ([#11167](https://github.com/mdn/yari/issues/11167)) ([95ea0da](https://github.com/mdn/yari/commit/95ea0da0aed99e9804d91c20eddcc17ce74023d3))
+* **deps:** bump requests from 2.31.0 to 2.32.0 in /testing/integration ([#11168](https://github.com/mdn/yari/issues/11168)) ([09b7046](https://github.com/mdn/yari/commit/09b7046e5b3afea8975643c3bfb957e9ac7f8ca0))
+* **deps:** bump the dependencies group in /deployer with 2 updates ([#11158](https://github.com/mdn/yari/issues/11158)) ([8b483e8](https://github.com/mdn/yari/commit/8b483e8136bc92c2a25b0a462160394b853a8a14))
+* **deps:** bump web-features from 0.8.2 to 0.8.3 ([#11161](https://github.com/mdn/yari/issues/11161)) ([65bfe90](https://github.com/mdn/yari/commit/65bfe9001a9ade594001692d3945788032c77dd8))
+* **macros/LearnSidebar:** add Japanese translation for Games section ([#11152](https://github.com/mdn/yari/issues/11152)) ([10d50be](https://github.com/mdn/yari/commit/10d50bef14a761b4798fdb12d0043086acc75d3e))
+
 ## [2.52.1](https://github.com/mdn/yari/compare/v2.52.0...v2.52.1) (2024-05-17)
 
 
