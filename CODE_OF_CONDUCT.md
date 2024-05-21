@@ -1,12 +1,20 @@
-# Community Participation Guidelines
-
-This repository is governed by Mozilla's code of conduct and etiquette
-guidelines. For more details, please read the
-[Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/).
-
-## How to Report
-
-For more information on how to report violations of the Community Participation
-Guidelines, please read our
-[How to Report](https://www.mozilla.org/about/governance/policies/participation/reporting/)
-page.
+{
+  "name": "Carcayu",
+  "short_name": "Carcayu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
